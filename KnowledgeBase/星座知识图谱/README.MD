@@ -9,7 +9,7 @@
 爬取的数据保存在当前目录下的dataset目录下。
 
 ## 结果
-! [text ](./images/demo.png)
+! [demo结果 ](./images/demo.png)
 
 ## 环境
 
